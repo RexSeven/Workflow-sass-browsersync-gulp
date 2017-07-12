@@ -1,0 +1,19 @@
+{
+  "name": "default-workflow",
+  "version": "1.0.0",
+  "description": "A workflow that uses sass and browser sync automatically controlled using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "Matt Jasek",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
